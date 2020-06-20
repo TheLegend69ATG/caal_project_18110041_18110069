@@ -1,3 +1,4 @@
+; print input address value
 extern writestr,space,newline,write_address_value,write_address
 extern printf,scanf
 section .bss
