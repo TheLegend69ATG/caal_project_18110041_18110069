@@ -33,11 +33,9 @@ int main()
 	int c=7;
 	int d=8;
 	//register void *sp asm ("ebp");
-    //printf("%p\n", sp);
+    	//printf("%p\n", sp);
 	//printf("Sum of %d + %d = %d\n", a, b, sum(a, b));
 	 sum(a,b);
-	 //sum(a,b);
-//	printf("Factorial of a = %d\n", factorial(a));
-//	walk_stack();
+
 
 }
